@@ -11,7 +11,6 @@
   inputs.src-nimarrow-v0_1_3.ref   = "refs/tags/v0.1.3";
   inputs.src-nimarrow-v0_1_3.owner = "emef";
   inputs.src-nimarrow-v0_1_3.repo  = "nimarrow";
-  inputs.src-nimarrow-v0_1_3.dir   = "";
   inputs.src-nimarrow-v0_1_3.type  = "github";
   
   inputs."nimarrow_glib".owner = "nim-nix-pkgs";

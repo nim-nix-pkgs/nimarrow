@@ -11,7 +11,6 @@
   inputs.src-nimarrow-master.ref   = "refs/heads/master";
   inputs.src-nimarrow-master.owner = "emef";
   inputs.src-nimarrow-master.repo  = "nimarrow";
-  inputs.src-nimarrow-master.dir   = "";
   inputs.src-nimarrow-master.type  = "github";
   
   inputs."nimarrow_glib".owner = "nim-nix-pkgs";
