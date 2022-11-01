@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "v0_1_3",
-        "lastModified": 1667329783,
-        "narHash": "sha256-l7oAMcXpALqpMRvEBJKspgUIGAYqqF+2DdLdtSQ+ap4=",
+        "lastModified": 1667334632,
+        "narHash": "sha256-VcoLlHWfrbx3RSErutwAV5oq8ntTJPpSbGnpJ6NGjAM=",
         "owner": "nim-nix-pkgs",
         "repo": "nimarrow_glib",
-        "rev": "08ca538c019b8244a97ce7061e53307faf5d9b68",
+        "rev": "b062182de161dbe61121bb0fb1fadd63e6450534",
         "type": "github"
       },
       "original": {
